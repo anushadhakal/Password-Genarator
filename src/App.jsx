@@ -84,6 +84,9 @@ let finalValue = ''
       <div className='btn'>
         <button onClick={btnClick}>Generate Password</button>
       </div>
+      <div>
+        
+      </div>
       
     </>
   )
