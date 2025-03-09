@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(179, 110, 110);
+}
+.inputField {
+  display: flex;
+  justify-content: space-between;
+}
+.passLen{
+  display: flex;
+  justify-content: space-between;
+}
+.passLen input{
+ width: 40px;
+  
+}
+
+
+.upperCase  {
+  display: flex;
+  justify-content: space-between;
+}
+.lowerCase {
+  display: flex;
+  justify-content: space-between;
+}
+.inclnum {
+  display: flex;
+  justify-content: space-between;
+}
+.inclSym {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
